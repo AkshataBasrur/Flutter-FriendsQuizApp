@@ -1,8 +1,13 @@
 # Flutter for F.R.I.E.N.D.S quiz app
 
 ## Steps to get started
-1-  Install Flutter and Andriod Studio
-2-  Navigate to Andriod Virtual Device
-3-  Configure Andriod Studio by adding 
-4-  Click on create Virtual Device and choose a device defination of your choice
-5-  
++   Install Flutter and Andriod Studio
++   Configure Andriod Studio by adding a device defination of your choice
++   Edit the environment variable and set user variable path to bin folder of flutter
+<br>
+    Clone Git Repository:
+https://github.com/AkshataBasrur/Flutter-FriendsQuizApp.git
+
++   Run the application using:
+Flutter run
++ F.R.I.E.N.D.S quiz application will start on the emulator
